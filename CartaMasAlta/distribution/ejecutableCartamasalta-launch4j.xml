@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\34639\Desktop\FPS-DAM\ENTORNOS DE DESARROLLO\UT 6\EDP601-PRACTICA_DOCUMENTAR_DISTRIBUIR\CartaMasAlta\bin\cartaMasAltaConManifest.jar</jar>
+  <outfile>C:\Users\34639\Desktop\FPS-DAM\ENTORNOS DE DESARROLLO\UT 6\EDP601-PRACTICA_DOCUMENTAR_DISTRIBUIR\CartaMasAlta\distribution\files\CartaMasAltaFSB.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\34639\Desktop\FPS-DAM\ENTORNOS DE DESARROLLO\UT 6\EDP601-PRACTICA_DOCUMENTAR_DISTRIBUIR\CartaMasAlta\distribution\icono.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.0.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0</txtFileVersion>
+    <fileDescription>Aplicación Java del Juego la Carta Mas Alta</fileDescription>
+    <copyright>(C) Flor Santos</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>CartaMasAlta</productName>
+    <companyName></companyName>
+    <internalName>La Carta Mas Alta</internalName>
+    <originalFilename>CartaMasAltaFSB.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>CASTILIAN_SPANISH</language>
+  </versionInfo>
+</launch4jConfig>

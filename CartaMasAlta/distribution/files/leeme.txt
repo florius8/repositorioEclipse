@@ -1,0 +1,22 @@
+Carta Más Alta FSB (C) Version 1.0 10/05/2020
+
+DESCRIPCIÓN
+===================================================================
+La aplicación se basa en el juego de La Carta Más Alta. 
+La única regla del juego es que la carta más alta, gana.
+
+El juego comienza mezclando la baraja y a continuación te da
+a elegir una de las dos cartas proporcionadas.
+Una vez elegida, muestra los valores de las dos cartas y un mensaje
+indicando si tu carta es la ganadora o no.
+Una vez terminado el juego, te da la opción de volver a jugar
+o salir de la aplicación.
+
+
+CONTACTO
+===================================================================
+Telefono: 600 000 000
+Web: 
+E-mail: florsantosbueno@gmail.com
+
+Copyright 2020.

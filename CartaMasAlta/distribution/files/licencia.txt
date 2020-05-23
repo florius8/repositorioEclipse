@@ -1,0 +1,22 @@
+Términos y condiciones
+Contrato de Licencia de uso de software.
+LEA CUIDADOSAMENTE LOS TÉRMINOS Y CONDICIONES DEL PRESENTE DOCUMENTO,
+ANTES DE LA UTILIZACIÓN DE ESTE PRODUCTO. ESTE CONTIENE SOFTWARE,
+CUYO USO ES OBJETO DE UNA LICENCIA OTORGADA POR FSB ASSOCIATED SYSTEM
+A FAVOR DE USTED, EL USUARIO FINAL ORIGINAL, PARA SU USO EXCLUSIVO COMO SE INDICA.
+SI USTED NO ESTA DE ACUERDO CON LOS TÉRMINOS Y CONDICIONES DE ESTE CONTRATO,
+NO UTILICE EL SOFTWARE. EL USO DE CUALQUIER PARTE DEL SOFTWARE INDICA QUE USTED
+ACEPTA ESTOS TÉRMINOS.
+
+CLÁUSULA 1. OBJETO. Este acuerdo establece las condiciones de licenciamiento,
+instalación y uso del programa adquirido (de aquí en adelante denominado
+el software), programa este propiedad exclusiva de FSB ASSOCIATED SYSTEM.
+La licencia objeto del presente acuerdo es concedida exclusivamente para
+el uso del cliente.
+
+CLÁUSULA 2.PROPIEDAD. El Software es, y seguirá siendo en todo momento,
+propiedad de FSB ASSOCIATED SYSTEM . El Cliente no tendrá ningún derecho,
+titulo o interés en el Software, y no permitirá que ninguna obligación
+exista sobre éste, ni permitirá el uso del Software por terceros,
+ni realizará ningún acto que pueda modificarlos derechos de autor del Software.
+Por lo tanto, el CLIENTE no puede vender.
